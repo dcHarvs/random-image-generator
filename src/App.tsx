@@ -2,7 +2,7 @@ import Header from "./components/Header";
 
 function App() {
   return (
-    <main className="container max-w-screen-lg mx-auto px-2">
+    <main className="min-h-screen flex flex-col">
       <Header />
     </main>
   );
