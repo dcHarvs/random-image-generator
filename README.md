@@ -1,6 +1,6 @@
 # Random Image Generator
 
-A basic React application that generated random images from Picsum
+A basic React application that generates random images from Picsum
 
 Note: Please ensure you have installed [nodejs](https://nodejs.org/en/download/) if you want to run the program locally.
 
